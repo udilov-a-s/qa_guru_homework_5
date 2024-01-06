@@ -1,4 +1,4 @@
-package com.udilovAit;
+package com.udilov.it;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
@@ -8,8 +8,6 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-
-//Переименовать название класса
 
 public class SearchingForTextOnPage {
 

@@ -2,11 +2,15 @@ plugins {
     id 'java'
 }
 
-group = 'com.udilovAit'
+group = 'com.udilov.it'
 version = '1.0'
 
 repositories {
     mavenCentral()
+}
+
+compileTestJava {
+    options.encoding = "UTF-8"
 }
 
 dependencies {
