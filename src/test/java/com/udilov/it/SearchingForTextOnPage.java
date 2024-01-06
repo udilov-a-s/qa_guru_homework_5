@@ -13,7 +13,7 @@ public class SearchingForTextOnPage {
 
     @BeforeAll
     static void configuration() {
-        Configuration.browserSize = ",640x480";
+        Configuration.browserSize = "640x480";
         Configuration.baseUrl = "https://github.com/";
         Configuration.timeout = 5000;
         Configuration.pageLoadStrategy = "eager";
