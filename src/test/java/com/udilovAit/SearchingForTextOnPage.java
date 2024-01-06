@@ -1,4 +1,4 @@
-package com.udilov.it;
+package com.udilovAit;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
