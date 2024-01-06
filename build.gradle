@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.udilov.it'
+group = 'com.udilovAit'
 version = '1.0'
 
 repositories {
